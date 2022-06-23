@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="look_up_words">show stored words</string>
+    <string name="look_up_word">look up word in a browser search</string>
+    <string name="detail_prefix">words that start with</string>
+    <string name="action_switch_layout">switch layout</string>
+</resources>

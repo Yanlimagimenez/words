@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+    <item>Java</item>
+    <item>JavaScript</item>
+    <item>TypeScript</item>
+    <item>Angular</item>
+    <item>C++</item>
+    <item>C#</item>
+    <item>React</item>
+    <item>Clojure</item>
+    </string-array>
+
+</resources>
